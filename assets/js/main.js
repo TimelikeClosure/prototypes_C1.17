@@ -114,7 +114,7 @@ app.config(function($routeProvider, navigationProvider){
             },
             {
                 title: 'JS-Event-Delegation',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('1/9/2017 08:00'),
                 controller: 'jsEventDelegationController',
                 template: 'featureSetsB.html'
             },
