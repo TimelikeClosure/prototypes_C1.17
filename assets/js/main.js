@@ -102,13 +102,13 @@ app.config(function($routeProvider, navigationProvider){
             },
             {
                 title: 'JS-OOP',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('1/24/2017 08:00'),
                 controller: 'jsOopController',
                 template: 'featureSetsB.html'
             },
             {
                 title: 'JS-AJAX',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('1/27/2017 08:00'),
                 controller: 'jsAjaxController',
                 template: 'featureSetsB.html'
             },
