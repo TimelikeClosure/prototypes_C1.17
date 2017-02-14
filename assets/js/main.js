@@ -176,7 +176,7 @@ app.config(function($routeProvider, navigationProvider){
         PHP: [
             {
                 title: 'PHP-Intro',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/15/2017 08:00'),
                 controller: 'phpIntroController',
                 template: 'featureSetsB.html'
             },
@@ -200,7 +200,7 @@ app.config(function($routeProvider, navigationProvider){
             },
             {
                 title: 'PHP-Includes',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/15/2017 08:00'),
                 controller: 'phpIncludesController',
                 template: 'featureSetsB.html'
             },
@@ -218,7 +218,7 @@ app.config(function($routeProvider, navigationProvider){
             },
             {
                 title: 'PHP-Super-Globals',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/15/2017 08:00'),
                 controller: 'phpSuperGlobalsController',
                 template: 'featureSetsB.html'
             },
@@ -238,19 +238,19 @@ app.config(function($routeProvider, navigationProvider){
         AngularJS: [
             {
                 title: 'AngularJS-Intro',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/17/2017 08:00'),
                 controller: 'angIntroController',
                 template: 'featureSetsB.html'
             },
             {
                 title: 'AngularJS-DOM-Events',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/17/2017 08:00'),
                 controller: 'angDomEventsController',
                 template: 'featureSetsB.html'
             },
             {
                 title: 'AngularJS-Controllers',
-                date: toTs('1/9/2018 08:00'),
+                date: toTs('2/17/2017 08:00'),
                 controller: 'angControllersController',
                 template: 'featureSetsB.html'
             },
